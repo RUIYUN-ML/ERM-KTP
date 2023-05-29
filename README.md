@@ -1,8 +1,5 @@
 # ERM-KTP
-Code for our CVPR 2023 paper "**ERM-KTP: Knowledge-level Machine Unlearning via Knowledge Transfer**". 
-
-[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html)
-
+Code for our CVPR 2023 paper "**[ERM-KTP: Knowledge-level Machine Unlearning via Knowledge Transfer](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.html)**". 
 
 ## Requirements
 >- Platforms: Ubuntu: 18.04 Cuda: 11.7
