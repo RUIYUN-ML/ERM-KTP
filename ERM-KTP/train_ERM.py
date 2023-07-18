@@ -161,7 +161,7 @@ def train_model(model,criterion,optimizer,scheduler,num_epochs=25):
 
                 #forward
                 if ifmask:
-                    outputs, regulization_loss = model(inputs, labels)
+                    outputs, regulization_loss = model(inputs, labels=labels)
                     regulization_loss = regulization_loss.mean()
                     loss_0 = criterion(outputs, labels)
                     loss = loss_0 + regulization_loss * args.lambda_reg
