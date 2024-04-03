@@ -26,7 +26,7 @@ python classAcc_valid.py
 ~~~
 
 ##
-If you want to unlearn the specific class in your work, please modidy the following code in line 262 of dataLoder.py
+If you want to unlearn the specific class in your work, please modidy the following code in line 262 of dataLoder.py.
 ~~~
 if data_train[i][1] >= 0 and data_train[i][1] < self.num_unlearn:
 ~~~
